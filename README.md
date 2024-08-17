@@ -5,8 +5,9 @@
 一键脚本:
 
 `wget -N --no-check-certificate https://raw.githubusercontent.com/aquasofts/uninstallnginx/main/uninstall.sh && chmod +x uninstall.sh && ./uninstall.sh`
+
 ### 啰嗦一句
 
-一键卸载nginx，大佬跳过
+一键卸载nginx，基本没什么特殊亮点，大佬可跳过
 
 仅在 debian 12 测试通过
